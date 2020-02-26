@@ -4,3 +4,6 @@ Designed a trip planner application that enables users to create trips and join 
 
 
 ![](CaptureT2.PNG)
+
+
+![](CaptureT3.PNG)
